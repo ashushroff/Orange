@@ -55,7 +55,7 @@ img{
 #navbar{
     height: 45px;
     width: 100%;
-    background-color: white;
+    /* background-color: white; */
 }
 ul{
     display: flex;
@@ -102,7 +102,7 @@ button{
     height: 40%;
     width: 2%;
     justify-content: space-between;
-    background-color: rgb(193, 7, 7);
+    /* background-color: rgb(193, 7, 7); */
 }
 #social>a{
     display: inline-block;
